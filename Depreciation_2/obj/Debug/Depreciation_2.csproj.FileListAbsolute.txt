@@ -1,0 +1,8 @@
+D:\Programming\C#\Depreciation_2\bin\Debug\Depreciation_2.exe.config
+D:\Programming\C#\Depreciation_2\bin\Debug\Depreciation_2.exe
+D:\Programming\C#\Depreciation_2\bin\Debug\Depreciation_2.pdb
+D:\Programming\C#\Depreciation_2\obj\Debug\Depreciation_2.csproj.AssemblyReference.cache
+D:\Programming\C#\Depreciation_2\obj\Debug\Depreciation_2.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C#\Depreciation_2\obj\Debug\Depreciation_2.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Depreciation_2\obj\Debug\Depreciation_2.exe
+D:\Programming\C#\Depreciation_2\obj\Debug\Depreciation_2.pdb
